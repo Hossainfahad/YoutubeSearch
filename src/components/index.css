@@ -1,0 +1,17 @@
+.search-bar{
+    margin-top:1rem;
+    margin-bottom: 1rem;
+}
+.video-item{
+    display:flex !important;
+    align-items: center !important;
+
+}
+.video-item .image:hover{
+    cursor: pointer;
+}
+.video-item.item img{
+    max-width: 160px;
+    max-height: 80px;
+}
+
